@@ -12,4 +12,8 @@
  
  demo不怎么实用，但是仅仅就为了好看呀！
  雪花算法参考：
+<<<<<<< HEAD
  [参考](http://www.openprocessing.org/sketch/84771)
+=======
+  http://www.openprocessing.org/sketch/84771
+>>>>>>> origin/master
